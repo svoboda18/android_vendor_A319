@@ -367,7 +367,7 @@
     cp_gemini_pref_sim="1"
     cp_up_selection="up"
     default_cdma_profile="CDMA1"
-    default_profile="NOKIA"
+    default_profile="GOOGLE"
     disable_after_reboot="no"
     ecid_enable="yes"
     gpevt="no"
